@@ -1,2 +1,2 @@
 # Algorithms
-This repository present different types of algorithms. 
+This repository presents different types of algorithms. 
